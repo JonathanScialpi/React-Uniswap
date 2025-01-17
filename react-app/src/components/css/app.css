@@ -1,0 +1,13 @@
+.intro {
+    display: flex;
+    margin-top: 30px;
+  }
+
+.components{
+    margin-right: 30px;
+    margin-left:30px;
+  }
+
+  h1{
+    margin-left: 30px;
+  }

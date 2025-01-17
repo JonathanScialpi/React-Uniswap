@@ -1,0 +1,26 @@
+{
+  "name": "custodian-cli",
+  "version": "1.0.0",
+  "description": "A command-line interface used to interact with the Custodian ethereum smart contract.",
+  "main": "yargs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.ibm.com:BCS-Dev/CLI.git"
+  },
+  "author": "IbmEthDevTeam",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "yargs": "^17.6.0"
+  },
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
